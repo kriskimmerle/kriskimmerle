@@ -1,6 +1,6 @@
 # Hey, I'm Kris 👋
 
-I'm obsessed with the messy, practical side of AI governance: the gap between frameworks on paper and systems that actually work. I build tools to explore that space — mostly Python, mostly zero-dependency, all open source.
+I'm obsessed with the messy, practical side of AI governance. The gap between frameworks on paper and systems that work. I build tools to explore that space. Mostly Python, mostly zero-dependency, all open source.
 
 [![Substack](https://img.shields.io/badge/Substack-AI%20Risk%20Praxis-orange?style=flat-square&logo=substack)](https://airiskpraxis.substack.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kriskimmerle/)
@@ -74,6 +74,6 @@ Static analysis tools that catch misconfigurations before they hit production. A
 
 ### Philosophy
 
-Every tool here is **zero-dependency, stdlib-only Python**. Single file. Works everywhere Python runs. No `pip install` needed — just download and go.
+Every tool here is **zero-dependency, stdlib-only Python**. Single file. Works everywhere Python runs. No pip install needed. Just download and go.
 
 I write about what I'm learning building RealPage's AI governance program. If you're figuring out AI governance at your org, I'm always happy to compare notes.
