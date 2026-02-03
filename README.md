@@ -76,6 +76,7 @@ Static analysis tools that catch misconfigurations before they hit production. A
 | [**tokcount**](https://github.com/kriskimmerle/tokcount) | LLM token estimator — 23 models, cost estimation, zero deps |
 | [**reexplain**](https://github.com/kriskimmerle/reexplain) | Regex explainer & tester with backtracking detection |
 | [**cronparse**](https://github.com/kriskimmerle/cronparse) | Cron expression parser, explainer, and linter |
+| [**testlint**](https://github.com/kriskimmerle/testlint) | Test quality static analyzer (vacuous tests, flaky indicators, 18 AST rules) |
 | [**envlock**](https://github.com/kriskimmerle/envlock) | Requirements completeness auditor |
 | [**procspy**](https://github.com/kriskimmerle/procspy) | Single-process deep inspector (files, network, env, children) |
 | [**procwatch**](https://github.com/kriskimmerle/procwatch) | Process monitor and resource tracker |
