@@ -1,10 +1,7 @@
 # Kris Kimmerle
 
-**AI Security · Developer Tooling · Open Source**
+Most of my work lives at the intersection of AI systems and the security gaps nobody's filling - agent security, supply chain integrity, configuration hardening. I write about these topics on [Substack](https://kriskimmerle.substack.com) and build the tooling I wish existed.
 
-I build tools that make security practical. Most of my work lives at the intersection of AI systems and the security gaps nobody's filling - agent security, supply chain integrity, configuration hardening. I write about these topics on [Substack](https://kriskimmerle.substack.com) and build the tooling I wish existed.
-
-Previously Head of AI Security at Aon. CISSP, AIGP.
 
 [![Substack](https://img.shields.io/badge/AI_Risk_Praxis-Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://kriskimmerle.substack.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kriskimmerle/)
